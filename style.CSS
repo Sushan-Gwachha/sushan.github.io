@@ -1,0 +1,58 @@
+BODY
+{
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+}header
+{
+    background-color:BLACK;
+    padding: 1px 0;
+    color:white;
+    text-align: center;
+    width:100%;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+
+main
+{
+    background-color: rgb(255, 255, 255);
+    padding:10px 0;
+    bottom:0;
+}
+button
+{
+    background-color:rgb(255, 255, 255);
+    color:white;
+}
+footer
+{
+    background-color: rgb(0, 0, 0);
+    color: WHITE;
+    padding: 12px 0;
+    text-align:center;
+    position:static;
+    width:100%;
+    BOTTOM:0;
+}
+
+div{
+    background-color: rgba(255, 255, 255, 0);
+    padding: 12px 0;
+    text-align:right;
+    position:fixed;
+    width:100%;
+    BOTTOM:0;
+    height: 20px 0;
+}
+
